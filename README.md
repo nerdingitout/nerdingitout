@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://user-images.githubusercontent.com/36239840/87870081-cd5e6300-c9b5-11ea-876f-d37259cf58e9.gif)
 
 <!--
 **nerdingitout/nerdingitout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
