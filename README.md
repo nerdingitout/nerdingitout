@@ -7,7 +7,9 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=nerdingitout&hide=stars&show_icons=true&theme=default&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdingitout&layout=compact&count_private=true&theme=default">
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdingitout&layout=compact&count_private=true&theme=default">
+-->
 
 </p>
   
