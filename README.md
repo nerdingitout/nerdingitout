@@ -1,6 +1,6 @@
 ### Hi there!
  <p align="center">
-  <br><image src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="250"><br>
+  <br><image src="https://user-images.githubusercontent.com/36239840/116863762-d3a58f00-ac17-11eb-8ce3-be623105687b.gif"><br>
    I'm Masa. Developer Advocate at IBM focusing on AI, DevOps & Microservices. I work with the developer community to build solutions, and deliver talks and workshops on the latest technologies. I like to work on content and projects on OpenShift and NLP projects like chatbots.
    <br><br>If you are interested to learn more about my work or collaborate on future projects, you can contact me on <a href="https://twitter.com/masa_mhha">Twitter</a> or <a href="https://www.linkedin.com/in/masa-abushamleh-16ba2a11a/">LinkedIn</a>
      </p>
