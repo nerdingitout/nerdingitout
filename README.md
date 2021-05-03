@@ -1,4 +1,3 @@
-### Hi there!
  <p align="center">
   <br><image src="https://user-images.githubusercontent.com/36239840/116864552-17e55f00-ac19-11eb-8d40-593d3fc6b90c.gif"><br>
    I'm Masa. Developer Advocate at IBM focusing on AI, DevOps & Cloud-native. I work with the developer community to build solutions, and deliver talks and workshops on the latest technologies. I like to work on content and projects on OpenShift Development and Administration and NLP projects.
