@@ -4,9 +4,8 @@
    <br><br>If you are interested to learn more about my work or collaborate on future projects, you can contact me on <a href="https://twitter.com/masa_mhha">Twitter</a> or <a href="https://www.linkedin.com/in/masa-abushamleh-16ba2a11a/">LinkedIn</a>-->
      </p>
 <p align="center">
-  
+<!--  
   <img src="https://github-readme-stats.vercel.app/api?username=nerdingitout&hide=stars&show_icons=true&theme=default&line_height=32">
-<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdingitout&layout=compact&count_private=true&theme=default">
 -->
 
